@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**bharathi7483/Bharathi7483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bharathi
 
-Here are some ideas to get you started:
+🎓 BTech 1st Year Student  
+💻 Beginner in Programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- C
+- C++
+- Python 
+
+### 📌 About Me
+- Interested in software development
+- Learning step by step
+- Uploading practice programs and small projects
+
+### 📂 What you'll find here
+- Basic C programs
+- C++ practice codes
+- Beginner-level projects
+- DSAS
+
+### 🎯 Goal
+- Improve coding skills
+- Build good projects
+- Prepare for internships and placements
+
+📫 Feel free to explore my repositories!
