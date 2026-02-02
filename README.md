@@ -1,25 +1,23 @@
 ## Hi there 👋
-
 I'm Bharathi
 
 🎓 BTech 1st Year Student  
 💻 Beginner in Programming  
 
-### 🌱 Currently Learning
+### Currently Learning
 - C
 - C++
-- Python 
+- Python basics
 
 ### 📌 About Me
 - Interested in software development
 - Learning step by step
 - Uploading practice programs and small projects
 
-### 📂 What you'll find here
+###  What you'll find here
 - Basic C programs
 - C++ practice codes
 - Beginner-level projects
-- DSAS
 
 ### 🎯 Goal
 - Improve coding skills
